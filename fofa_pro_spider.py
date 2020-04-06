@@ -43,6 +43,7 @@ def spider():
 def start():
     print('''
     ***使用说明***
+    0.此py为直接爬取fofa搜索结果后的url链接并生成txt.\n
     1.运行此py前，请先在此py里填写自己fofa Pro帐号的cookie.\n
     2.普通帐号只能获取不多于5页的url.\n
     3.如果出现不能获取多页url的情况，请查看cookie是否过期.\n
