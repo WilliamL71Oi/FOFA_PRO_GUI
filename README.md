@@ -1,4 +1,4 @@
-# FOFA_PRO_SEARCH_GUI v1.2
+# FOFA_PRO_SEARCH_GUI v1.3
 
 1.支持fofa pro搜索。  
 2.支持保存&导入txt或csv。    
