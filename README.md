@@ -1,6 +1,7 @@
 # FOFA_PRO_SEARCH_GUI v1.4.1
 
-![FOFA_PRO_SEARCH_GUI v1.4](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/FOFA_PRO_SEARCH_GUI_v1.4.png)
+![FOFA_PRO_SEARCH_GUI v1.4](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/FOFA_PRO_SEARCH_GUI_v1.4.png)  
+![FOFA_PRO_SEARCH_GUI v1.4](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/FOFA_PRO_SEARCH_GUI_v1.4%E5%AE%89%E5%85%A8%E6%A3%80%E6%9F%A5.png)    
 
 ---新增---  
 1.新增批量导入fofa语句，支持批量搜索，对发掘资产很有用。
