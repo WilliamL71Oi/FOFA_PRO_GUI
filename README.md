@@ -28,7 +28,7 @@
 
 ![FOFA_PRO_SEARCH_GUI v2.0](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/%E6%89%B9%E9%87%8F%E5%AF%BC%E5%85%A5fofa%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95.png) 
 
-![FOFA_PRO_SEARCH_GUI v2.0](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/%E6%89%B9%E9%87%8F%E5%AF%BC%E5%85%A5fofa%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95.png) 
+![FOFA_PRO_SEARCH_GUI v2.0](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/icon%20hash%E6%90%9C%E7%B4%A2.png) 
 
 # 声明：本软件免费使用，仅供技术交流，不得用于违反法律法规的行为，一切后果与本人无关。  
 # 如喜欢本软件，请点个star，多多支持！
