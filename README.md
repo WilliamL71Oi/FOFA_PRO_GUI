@@ -3,7 +3,7 @@
 
 # ---新增---  
 1.通过配置文件读取账号密码，无需再每次手工输入;  
-2.输入过的fofa命令会有历史记录，方便快捷(暂不支持软件内删除，只能到txt删除);  
+2.输入过的fofa命令会有历史记录，对着输入框的命令然后点击右键即可保存，方便快捷(暂不支持软件内删除，只能到txt删除);  
 3.支持在搜索框直接输入网站icon的网址，或者批量导入icon图片，通过icon hash搜索资产.  
 
 # ---主要功能---  
@@ -19,6 +19,8 @@
 ![FOFA_PRO_SEARCH_GUI v2.0](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/fofa%E6%B2%99%E7%AE%B1.png) 
 
 ![FOFA_PRO_SEARCH_GUI v2.0](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/Debug%E5%90%8E%E5%8F%B0.png) 
+
+![FOFA_PRO_SEARCH_GUI v2.0](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/search_history.png)  
 
 ![FOFA_PRO_SEARCH_GUI v2.0](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/fofa%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95%E5%8F%82%E8%80%83.png) 
 
