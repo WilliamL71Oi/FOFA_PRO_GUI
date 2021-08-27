@@ -4,9 +4,7 @@
 ![FOFA_PRO_SEARCH_GUI v1.4](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/FOFA_PRO_SEARCH_GUI_v1.4%E5%AE%89%E5%85%A8%E6%A3%80%E6%9F%A5.png)    
 
 # ---新增---  
-1.通过配置文件读取账号密码，无需再每次手工输入。 
-2.输入过的fofa命令会有历史记录，方便快捷(暂不支持软件内删除，只能到txt删除)。 
-3.支持在搜索框直接输入网站icon的网址，或者批量导入icon图片，通过icon hash搜索资产。  
+1.通过配置文件读取账号密码，无需再每次手工输入。
 
 # ---主要功能---  
 1.支持批量fofa pro搜索； 
