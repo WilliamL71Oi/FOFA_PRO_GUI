@@ -18,7 +18,17 @@
 7.支配配置文件读取账号密码； 
 8.支持在线或者批量导入icon图片，通过icon hash搜索资产。  
 
-![FOFA_PRO_SEARCH_GUI v2.0](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/Debug%E5%90%8E%E5%8F%B0.png)
+![FOFA_PRO_SEARCH_GUI v2.0](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/fofa%E6%B2%99%E7%AE%B1.png) 
+
+![FOFA_PRO_SEARCH_GUI v2.0](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/Debug%E5%90%8E%E5%8F%B0.png) 
+
+![FOFA_PRO_SEARCH_GUI v2.0](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/fofa%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95%E5%8F%82%E8%80%83.png) 
+
+![FOFA_PRO_SEARCH_GUI v2.0](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/fofa%E8%AF%B4%E6%98%8E1.png) 
+
+![FOFA_PRO_SEARCH_GUI v2.0](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/%E6%89%B9%E9%87%8F%E5%AF%BC%E5%85%A5fofa%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95.png) 
+
+![FOFA_PRO_SEARCH_GUI v2.0](https://github.com/WilliamL71Oi/FOFA_PRO_GUI/blob/master/%E6%89%B9%E9%87%8F%E5%AF%BC%E5%85%A5fofa%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95.png) 
 
 # 声明：本软件免费使用，仅供技术交流，不得用于违反法律法规的行为，一切后果与本人无关。  
 # 如喜欢本软件，请点个star，多多支持！
